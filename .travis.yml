@@ -14,8 +14,3 @@ branches:
 deploy:
   provider: heroku
   app: bv-ang2
-  api_key:
-    secure: "ef0b16d3-1859-4cf7-b75c-878d3d9e7edd"
-  on:
-    repo: UABilostVi/AppAng2
-    branch: main
