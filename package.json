@@ -6,7 +6,8 @@
     "start": "ng server.js",
     "build": "ng build",
     "postinstall": "ng build --aot --prod",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "test": "ng test"
   },
   "private": true,
   "dependencies": {
